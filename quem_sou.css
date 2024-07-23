@@ -1,0 +1,35 @@
+body {
+  background-color: beige;
+  line-height: 2;
+  margin: 2%;
+  border: 4%;
+  padding: 6%;
+}
+
+h1,
+h3 {
+  border: 2px soli lightsteelblue;
+  border-radius: 10px;
+  background-color: midnightblue;
+  color: aquamarine;
+}
+
+h1 {
+  font-size: 35px;
+  font-weight: 600;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+div {
+  margin-top: 7%;
+}

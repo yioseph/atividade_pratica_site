@@ -1,0 +1,35 @@
+body {
+  line-height: 2;
+  margin: 4%;
+  border-left: 6%;
+  border-right: 6%;
+  padding-left: 8%;
+  padding-right: 8%;
+  background-color: rgb(241, 238, 192);
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h1,
+h3 {
+  background-color: darkslategray;
+  border-radius: 10px;
+  text-align: center;
+  color: antiquewhite;
+}
+
+h4 {
+  font-style: italic;
+}
+
+section {
+  margin-bottom: 15px;
+  margin-top: 15px;
+  border: 2px solid darkslategray;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+  background-color: rgb(209, 205, 150);
+}
